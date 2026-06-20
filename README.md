@@ -81,5 +81,4 @@ EDA_Project.ipynb
 * Compare multiple machine learning algorithms
 
 ### Author
-
-Your Name
+Kapil yadav
